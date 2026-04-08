@@ -27,3 +27,11 @@ This is a **Multi-Threaded Student Grade Processing System** that demonstrates a
 - File I/O using Scanner & PrintWriter
 
 ## Sample Output
+
+=== PROJECT COMPLETED SUCCESSFULLY ===
+GRADE SUMMARY REPORT
+Course: CS244 - Advanced Programming
+Total Students: 7
+Class Average: 72.3
+Top Student: Student [ID=S004, Name=Fatma Ali, Avg=91.67, Grade=A]
+Deadlock prevented using ordered lock acquisition.
