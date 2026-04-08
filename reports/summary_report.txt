@@ -1,0 +1,11 @@
+GRADE SUMMARY REPORT
+Course: CS244 - Advanced Programming
+Total Students: 7
+Class Average: 72.3
+Grade Distribution:
+A: 1 students (14%)
+B: 2 students (28%)
+C: 1 students (14%)
+D: 1 students (14%)
+F: 2 students (28%)
+Top Student: S004 - Fatma Ali (91.7)
