@@ -1,0 +1,24 @@
+# NetBeans
+nbproject/
+build/
+dist/
+*.jar
+*.class
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# Logs and reports
+reports/*.log
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
